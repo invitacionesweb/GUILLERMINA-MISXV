@@ -1,7 +1,7 @@
 :root {
     --color-principal:#faf9f7;
     --color-secundario:#dcc8ab;
-    --color-terciario:#dcc8ab;
+    --color-terciario:#bea587;
  
     --font-principal:'Montserrat', sans-serif;
     --font-secundaria:'Montserrat', sans-serif;
@@ -319,7 +319,7 @@ audio::-webkit-media-controls-current-time-display {
     width: 100%;
     padding: 60px 0;
     gap: 10px;
-    background-color: var(--color-terciario);
+    background-color: var(--color-secundario);
     color: var(--color-principal);
 
 }

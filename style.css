@@ -232,11 +232,12 @@ audio::-webkit-media-controls-current-time-display {
     font-size: 1em;
     max-width: 400px;
     margin: auto;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 
 }
-.ubicacion .datos {
-    width: 320px;
+.ubicacion-bloque .datos {
+    width: 86VW;
+    max-width: 660PX;
     margin: auto;
     padding: auto;
 }
@@ -273,7 +274,7 @@ audio::-webkit-media-controls-current-time-display {
     padding:6px 40px 6px 40px;
     font-size: 1em;
     margin: 0 0 10px 0;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 
 }
 .galeria2 {
@@ -309,10 +310,11 @@ audio::-webkit-media-controls-current-time-display {
 }
 .dos p { 
     max-width: 500px;
+    padding: 0PX 30px;
     text-align: center;
     margin: auto;
     max-width: 400px;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 
 }
 .tres { 
@@ -327,7 +329,7 @@ audio::-webkit-media-controls-current-time-display {
     max-width: 500px;
     text-align: center;
     margin: auto;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 
 }
 
